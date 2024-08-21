@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Jmelwinpinto
 - 👀 I’m interested in data Analytics/ Machine learning/ datascience 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning SQL, Python and Tableau
+- 💞️ I’m looking to collaborate on data cleaing storing and visualization, 
+- 📫 How to reach me  - www.linkedin.com/in/joyal-pinto
+- 😄 Pronouns: he/him,
 - ⚡ Fun fact: ...
 
 <!---
