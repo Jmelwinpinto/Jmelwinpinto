@@ -8,7 +8,7 @@
 
 <🛠 Technical Skills
 Languages:
-Python NumPy Pandas Matplotlib SQL Statistics
+SQL 
 
 Data Visualization:
 Power BI Excel
