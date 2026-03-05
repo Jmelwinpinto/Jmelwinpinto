@@ -6,7 +6,23 @@
 - 😄 Pronouns: he/him,
 - ⚡ Fun fact: ...
 
-<!---
-Jmelwinpinto/Jmelwinpinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<🛠 Technical Skills
+Languages:
+Python NumPy Pandas Matplotlib SQL Statistics
+
+Data Visualization:
+Power BI Excel
+
+Databases:
+MySQL, Postgresql
+
+Data Analytics:
+Data Cleaning
+ETL
+Reporting
+Exploratory Data Analysis (EDA)
+Tools:
+Power BI Service 
+SQL Workbench 
+Power BI Desktop Tableau Tableau Desktop Tableau Service 
+GitHub!---
